@@ -1,3 +1,4 @@
+// Project initialized: basic React setup
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
