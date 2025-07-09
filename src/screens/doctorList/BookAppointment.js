@@ -1,3 +1,4 @@
+// Appointment booking page section
 import React, { useState } from 'react';
 import Modal from '../../common/Modal/Modal';
 import { Button, Grid, TextField } from '@mui/material';
