@@ -1,3 +1,4 @@
+// Registration form page section
 import React, { useState } from 'react';
 import { TextField, Button, Grid, Alert } from '@mui/material';
 import { postRequest } from '../../util/fetch';
