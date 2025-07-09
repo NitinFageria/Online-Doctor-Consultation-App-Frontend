@@ -1,0 +1,11 @@
+.login-header {
+    background: purple;
+    height: 70px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    padding-left: 10px;
+    z-index: 1;
+}

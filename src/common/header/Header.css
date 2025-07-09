@@ -1,0 +1,24 @@
+.navbar-main{
+    background: purple;
+    height: 70px;
+    padding: 11px;
+}
+
+.brand-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-class {
+    background: #ff7f7f;
+    height: 35px;
+}
+
+.navbar-body {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
