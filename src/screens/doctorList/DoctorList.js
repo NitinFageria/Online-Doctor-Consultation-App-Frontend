@@ -1,3 +1,4 @@
+// Doctor list page section
 import React, { useEffect, useState } from 'react'
 import DoctorDetails from './DoctorDetails'
 import Dropdown from '../../common/Dropdown/Dropdown';
